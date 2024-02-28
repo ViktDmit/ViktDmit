@@ -1,5 +1,7 @@
 ### Привет, меня зовут Дмитрий!
 
+### 👨‍💻 Обо мне:
+
 <!--
 **ViktDmit/ViktDmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
