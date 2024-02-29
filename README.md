@@ -40,5 +40,7 @@
 ### 📚 Мои учебные артефакты:
 
 [Postman](https://github.com/ViktDmit/Postman)
+
 [MySQL](https://github.com/ViktDmit/MySQL)
+
 [Теория тестирования и тестовая документация](https://github.com/ViktDmit/Test-theory-and-test-documentation)
