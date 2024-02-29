@@ -6,7 +6,7 @@
 
 Я начинающий тестировщик ПО, мне очень нравится это направление и я хочу развиваться в нем.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktdmit92@gmail.com)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](viktdmit92@gmail.com)
 
 ---
 
