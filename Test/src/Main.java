@@ -23,7 +23,7 @@ public class Main {
             DecimalFormat df = new DecimalFormat("#.##");
             String finalResult = df.format(result);
             System.out.println("По текущему курсу сумма составит: " + finalResult);
-            start();
+            start(); //
         }
 
         static String convertCurrency(int valueSum, int choiceType) {
